@@ -79,3 +79,6 @@ dump.*
 
 # vscode
 .vscode
+
+# file
+*.xlsx
