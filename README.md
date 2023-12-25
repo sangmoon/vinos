@@ -6,6 +6,7 @@
 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [EdgeDB](https://www.edgedb.com/)
+- [Typer](https://typer.tiangolo.com/)
 
 https://www.edgedb.com/docs/guides/tutorials/rest_apis_with_fastapi
 
