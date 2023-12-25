@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "vinos"
+version = "0.1.0"
+description = ""
+authors = ["sangmoon <cholsoo22001@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = {extras = ["all"], version = "^0.105.0"}
+edgedb = "^1.7.0"
+pandas = "^2.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
